@@ -3,7 +3,7 @@
 % 22 Maar 2025
 
 ## Hi there 👋
-lets go to the *Stage 1*
+lets go to the *Stage 1*.
 **Stage 2**
 <!--
 **Gelvano7/Gelvano7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
