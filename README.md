@@ -1,6 +1,8 @@
-%% Project
+# Project
+
 % My loacalorg
-% 22 Maar 2025
+
+*Maar 2025*
 
 ## Hi there 👋
 lets go to the *Stage 1*.
@@ -10,8 +12,8 @@ There was also a parrot named Polly, who loved to talk and a little monkey named
 
 | Number | Items |
 | :----: |:-----:|
-|   1.   | phse 1|
-|   2.   |Phse 2 |
+|   1.   | phse 1 🚀|
+|   2.   |Phse 2 🍏|
 <!--
 **Gelvano7/Gelvano7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
