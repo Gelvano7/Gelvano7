@@ -19,7 +19,7 @@ Looking for an opportunity to apply my knowledge of system administration, netwo
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href="https://https://www.credly.com/earner/earned/badge/5d02c23a-a8e0-48f2-a712-92c23e5c7681"><img src="https://img.shields.io/badge/-Cisco_Endpoint_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<a href="https://www.credly.com/earner/earned/badge/5d02c23a-a8e0-48f2-a712-92c23e5c7681"><img src="https://img.shields.io/badge/-Cisco_Endpoint_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
 ## Projects
