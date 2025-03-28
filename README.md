@@ -15,18 +15,23 @@ Looking for an opportunity to apply my knowledge of system administration, netwo
 <a href="https://www.credly.com/badges/5d02c23a-a8e0-48f2-a712-92c23e5c7681"><img src="https://img.shields.io/badge/-Cisco_Endpoint_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
-## Operating System
-- Windows: (Windows 7/10/11 Server 2022)
-- Linux: (Centos, Ubuntu, REDHAT)
-
 ### Tools
 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-00A8E0?style=for-the-badge&logo=Tenable&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-259D3E?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware_Workstation-607B8B?style=for-the-badge&logo=vmware&logoColor=white" />
 </div>
 
+
 ## Projects
-- Active Directory Domain Controler Project
+- <a href="https://github.com/Gelvano7/IT-Infrastructure-Project/tree/main">IT Infrastructure Project 
 - Network
+
+## Operating System
+- Windows: (Windows 7/10/11 Server 2022)
+- Linux: (Centos, Ubuntu, REDHAT)
+
+
+
