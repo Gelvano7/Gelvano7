@@ -31,6 +31,7 @@ Looking for an opportunity to apply my knowledge of system administration, netwo
 
 ## Projects
 - <a href="https://github.com/Gelvano7/IT-Infrastructure-Project/tree/main">IT Infrastructure Lab Project 
+- Vulnerability Management Lab
 - Network
 
 ## Operating System
