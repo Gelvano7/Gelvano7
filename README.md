@@ -1,6 +1,8 @@
+---
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d23cf0a0-b9eb-4f93-b056-7fa3b8628232" alt="Project Banner" style="width: 100%; max-width: 1000px; border-radius: 8px;">
 </div>
+---
 
 # Hello, I'm Gelvano
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
