@@ -43,5 +43,10 @@ Looking for an opportunity to apply my knowledge of system administration, netwo
 - Windows: (Windows 7/10/11 Server 2022)
 - Linux: (Centos, Ubuntu, REDHAT)
 
+<div align="center">
+  <div style="border: 1px solid #ddd; padding: 15px 15px 30px; border-radius: 8px; display: inline-block; background: white; box-shadow: 0 3px 10px rgba(0,0,0,0.1);">
+    <a href="https://github.com/Gelvano7"><p style="margin: 10px 0 0; font-family: sans-serif; color: #555;">✨✨✨✨✨✨</p>
+  </div>
+</div>
 
 
