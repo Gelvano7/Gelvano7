@@ -6,7 +6,9 @@
 ---
 
 # Hello, I'm Gelvano
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gelvanokwasie/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:gvano2000@outlook.com"><img src="https://img.shields.io/badge/Contact-%231C1E26?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact" />
+</a>
 
 Final year System & Network Engineering student with Security+ certification, with a profound interest in technology and a dedication to solving problems.
 
