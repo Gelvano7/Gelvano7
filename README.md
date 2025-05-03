@@ -37,7 +37,7 @@ Looking for an opportunity to apply my knowledge of system administration, netwo
 ## Projects
 - <a href="https://github.com/Gelvano7/IT-Infrastructure-Project/tree/main">IT Infrastructure Lab Project
 - <a href="https://github.com/Gelvano7/Vulnerability-Management-Lab/tree/main">Vulnerability Management Lab Project  
-- Network
+- <a href="https://github.com/Gelvano7/Cisco-Switch-Router-Configuration">Cisco Switch & Router Configuration Lab
 
 ## Operating System
 - Windows: (Windows 7/10/11 Server 2022)
