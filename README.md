@@ -1,4 +1,6 @@
 
+---
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d23cf0a0-b9eb-4f93-b056-7fa3b8628232" alt="Project Banner" style="width: 100%; max-width: 1000px; border-radius: 8px;">
 </div>
@@ -45,7 +47,7 @@ Looking for an opportunity to apply my knowledge of system administration, netwo
 
 <div align="center">
   <div style="border: 1px solid #ddd; padding: 15px 15px 30px; border-radius: 8px; display: inline-block; background: white; box-shadow: 0 3px 10px rgba(0,0,0,0.1);">
-    <a href="https://github.com/Gelvano7"><p style="margin: 10px 0 0; font-family: sans-serif; color: #555;">✨✨✨✨✨✨</p>
+    <a href="https://github.com/Gelvano7"><p style="margin: 10px 0 0; font-family: sans-serif; color: #555;">⭐️ ⭐️ ⭐️</p>
   </div>
 </div>
 
