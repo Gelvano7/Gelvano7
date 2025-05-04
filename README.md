@@ -20,13 +20,13 @@ Looking for an opportunity to apply my knowledge of system administration, netwo
 
 ## Certifications
 
-### Verify here!👇🏽
+#### Verify here!👇🏽
 <div>
 <a href="https://www.credly.com/badges/197f70a9-aa79-4f68-8a36-24b576d9c0db"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://www.credly.com/badges/5d02c23a-a8e0-48f2-a712-92c23e5c7681"><img src="https://img.shields.io/badge/-Cisco_Endpoint_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
-### Tools
+## Tools
 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -41,9 +41,9 @@ Looking for an opportunity to apply my knowledge of system administration, netwo
 - <a href="https://github.com/Gelvano7/Vulnerability-Management-Lab/tree/main">Vulnerability Management Lab Project  
 - <a href="https://github.com/Gelvano7/Cisco-Switch-Router-Configuration">Cisco Switch & Router Configuration Lab
 
-## Operating System
+## Operating System 
 - Windows: (Windows 7/10/11 Server 2022)
-- Linux: (Centos, Ubuntu, REDHAT)
+- Linux: (familiar with Centos, Ubuntu, REDHAT)
 
 <div align="center">
   <div style="border: 1px solid #ddd; padding: 15px 15px 30px; border-radius: 8px; display: inline-block; background: white; box-shadow: 0 3px 10px rgba(0,0,0,0.1);">
