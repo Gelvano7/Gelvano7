@@ -33,6 +33,8 @@ Looking for an opportunity to apply my knowledge of system administration, netwo
     <a href="https://github.com/Gelvano7/Vulnerability-Management-Lab/tree/main"><img src="https://img.shields.io/badge/-Nessus-00A8E0?style=for-the-badge&logo=Tenable&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-259D3E?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware_Workstation-607B8B?style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OPmanager-FF6B00?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kaspersky-259D3E?style=for-the-badge&logo=kaspersky&logoColor=white" />
 </div>
 
 
@@ -42,12 +44,11 @@ Looking for an opportunity to apply my knowledge of system administration, netwo
 - <a href="https://github.com/Gelvano7/Cisco-Switch-Router-Configuration">Cisco Switch & Router Configuration Lab
 
 ## Operating System 
-- Windows: (Windows 7/10/11 Server 2022)
-- Linux: (familiar with Centos, Ubuntu, REDHAT)
+- Microsoft: Windows 7/10/11 (Server 2012/2016/2022)
+- Familiar with: Centos Minimal, Ubuntu, REDHAT, AndroidOS, iOS, ipadOS
 
 <div align="center">
-  <div style="border: 1px solid #ddd; padding: 15px 15px 30px; border-radius: 8px; display: inline-block; background: white; box-shadow: 0 3px 10px rgba(0,0,0,0.1);">
-    <a href="https://github.com/Gelvano7"><p style="margin: 10px 0 0; font-family: sans-serif; color: #555;">⭐️ ⭐️ ⭐️</p>
+  <div style="border: 1px solid #ddd; padding: 15px 15px 30px; border-radius: 8px; display: inline-block; background: white; box-shadow: 0 3px 10px rgba(0,0,0,0.1);"><p style="margin: 10px 0 0; font-family: sans-serif; color: #555;">⭐️ ⭐️ ⭐️</p>
   </div>
 </div>
 
