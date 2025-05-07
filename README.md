@@ -29,10 +29,11 @@ Looking for an opportunity to apply my knowledge of system administration, netwo
 ## Tools
 
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <a href="https://github.com/Gelvano7/Vulnerability-Management-Lab/tree/main"><img src="https://img.shields.io/badge/-Nessus-00A8E0?style=for-the-badge&logo=Tenable&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-259D3E?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VMware_Workstation-607B8B?style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware_Workstation-607B8B?style=for-the-badge&logo=vmware&logoColor=white" /> 
+ <div>     
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-OPmanager-FF6B00?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kaspersky-259D3E?style=for-the-badge&logo=kaspersky&logoColor=white" />
 </div>
