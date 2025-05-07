@@ -26,6 +26,12 @@ Looking for an opportunity to apply my knowledge of system administration, netwo
 <a href="https://www.credly.com/badges/5d02c23a-a8e0-48f2-a712-92c23e5c7681"><img src="https://img.shields.io/badge/-Cisco_Endpoint_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
+
+## Projects
+- <a href="https://github.com/Gelvano7/IT-Infrastructure-Project/tree/main">IT Infrastructure Lab Project
+- <a href="https://github.com/Gelvano7/Vulnerability-Management-Lab/tree/main">Vulnerability Management Lab Project  
+- <a href="https://github.com/Gelvano7/Cisco-Switch-Router-Configuration">Cisco Switch & Router Configuration Lab
+
 ## Tools
 
 <div>
@@ -37,12 +43,6 @@ Looking for an opportunity to apply my knowledge of system administration, netwo
     <img src="https://img.shields.io/badge/-OPmanager-FF6B00?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kaspersky-259D3E?style=for-the-badge&logo=kaspersky&logoColor=white" />
 </div>
-
-
-## Projects
-- <a href="https://github.com/Gelvano7/IT-Infrastructure-Project/tree/main">IT Infrastructure Lab Project
-- <a href="https://github.com/Gelvano7/Vulnerability-Management-Lab/tree/main">Vulnerability Management Lab Project  
-- <a href="https://github.com/Gelvano7/Cisco-Switch-Router-Configuration">Cisco Switch & Router Configuration Lab
 
 ## Operating System 
 - Microsoft: Windows 7/10/11 (Server 2012/2016/2022)
