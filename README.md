@@ -9,17 +9,14 @@
 
 # Hello, I'm Gelvano
 <a href="https://www.linkedin.com/in/gelvanokwasie/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:gvano2000@outlook.com"><img src="https://img.shields.io/badge/Contact-%231C1E26?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact" />
+<a href="mailto:gelvanokw@gmail.com"><img src="https://img.shields.io/badge/Contact-%231C1E26?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact" />
 </a>
 
-Final year System & Network Engineering student with Security+ certification, with a profound interest in technology and a dedication to solving problems.
-
+Aspiring IT professional with a strong interest in system administration, networking, and cybersecurity. I’m currently finishing my degree in System & Network Engineering and hold a CompTIA Security+ certification.
 ## Objective
-
-Looking for an opportunity to apply my knowledge of system administration, networking, and security in a professional setting.
+I’ve built a solid technical foundation through hands-on lab work and enjoy tackling real-world challenges. I’m eager to apply my skills in a professional IT environment whether in system administration, network engineering or cybersecurity.
 
 ## Certifications
-
 #### Verify here!👇🏽
 <div>
 <a href="https://www.credly.com/badges/197f70a9-aa79-4f68-8a36-24b576d9c0db"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -46,7 +43,7 @@ Looking for an opportunity to apply my knowledge of system administration, netwo
 
 ## Operating System 
 - Microsoft: Windows 7/10/11 (Server 2012/2016/2022)
-- Familiar with: Centos Minimal, Ubuntu, REDHAT, AndroidOS, iOS, ipadOS
+- Familiar with: Centos 8 Minimal, Ubuntu, RHEL 8, AndroidOS, iOS, ipadOS
 
 <div align="center">
   <div style="border: 1px solid #ddd; padding: 15px 15px 30px; border-radius: 8px; display: inline-block; background: white; box-shadow: 0 3px 10px rgba(0,0,0,0.1);"><p style="margin: 10px 0 0; font-family: sans-serif; color: #555;">⭐️ ⭐️ ⭐️</p>
