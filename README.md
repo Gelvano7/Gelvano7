@@ -14,7 +14,7 @@
 
 Aspiring IT professional with a strong interest in It support, system administration, networking, and cybersecurity. I’m currently finishing my degree in System & Network Engineering and hold a CompTIA Security+ certification.
 ## Objective
-I have developed a strong technical foundation through my academic studies and extensive hands-on lab work. I am passionate about solving IT challenges and am eager to apply my skills in system administration, network engineering, or cybersecurity within a professional environment.
+I have developed a strong technical foundation through my academic studies and extensive hands-on lab work. I am passionate about solving IT challenges and am eager to apply my skills in system administration, Tech Support, network engineering, or cybersecurity within a professional environment.
 
 ## Certifications
 #### Verify here!👇🏽
