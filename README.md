@@ -12,7 +12,7 @@
 <a href="mailto:gelvanokw@gmail.com"><img src="https://img.shields.io/badge/Contact-%231C1E26?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact" />
 </a>
 
-Aspiring IT professional with a strong interest in system administration, networking, and cybersecurity. I’m currently finishing my degree in System & Network Engineering and hold a CompTIA Security+ certification.
+Aspiring IT professional with a strong interest in It support, system administration, networking, and cybersecurity. I’m currently finishing my degree in System & Network Engineering and hold a CompTIA Security+ certification.
 ## Objective
 I have developed a strong technical foundation through my academic studies and extensive hands-on lab work. I am passionate about solving IT challenges and am eager to apply my skills in system administration, network engineering, or cybersecurity within a professional environment.
 
